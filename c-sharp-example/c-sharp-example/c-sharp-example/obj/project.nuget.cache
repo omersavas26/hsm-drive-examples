@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPH0YXtJJM4ZkQVg2ltMs7x0CPzR9pR3t0Q8b6tTY1srLcs6ZZagA0O2VXepcmDPiBQbqhOJwXVzTfApQ2avSA==",
+  "success": true,
+  "projectFilePath": "C:\\Projeler\\hsm-drive-examples\\c-sharp-example\\c-sharp-example\\c-sharp-example\\c-sharp-example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omers\\.nuget\\packages\\pkcs11interop\\5.1.2\\pkcs11interop.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

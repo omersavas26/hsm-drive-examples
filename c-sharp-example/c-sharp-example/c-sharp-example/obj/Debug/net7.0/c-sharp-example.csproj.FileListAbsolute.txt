@@ -1,0 +1,17 @@
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\c-sharp-example.exe
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\c-sharp-example.deps.json
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\c-sharp-example.runtimeconfig.json
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\c-sharp-example.dll
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\c-sharp-example.pdb
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\bin\Debug\net7.0\Pkcs11Interop.dll
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.csproj.AssemblyReference.cache
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.AssemblyInfoInputs.cache
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.AssemblyInfo.cs
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.csproj.CoreCompileInputs.cache
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.csproj.CopyComplete
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.dll
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\refint\c-sharp-example.dll
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.pdb
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\c-sharp-example.genruntimeconfig.cache
+C:\Projeler\hsm-drive-examples\c-sharp-example\c-sharp-example\c-sharp-example\obj\Debug\net7.0\ref\c-sharp-example.dll

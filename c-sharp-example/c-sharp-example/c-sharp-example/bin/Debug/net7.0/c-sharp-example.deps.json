@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "c-sharp-example/1.0.0": {
+        "dependencies": {
+          "Pkcs11Interop": "5.1.2"
+        },
+        "runtime": {
+          "c-sharp-example.dll": {}
+        }
+      },
+      "Pkcs11Interop/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/Pkcs11Interop.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c-sharp-example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pkcs11Interop/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5GHN9GHxfcyUejK761wkdJsRqvDO8Z3ET6gaSE0o0O/1HD3VttKojDgsGnqQ0AA0M7SyZjhFs0XJtG/ZKWAvRQ==",
+      "path": "pkcs11interop/5.1.2",
+      "hashPath": "pkcs11interop.5.1.2.nupkg.sha512"
+    }
+  }
+}
