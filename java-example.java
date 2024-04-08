@@ -1,3 +1,5 @@
+/// Merhaba sevigli takipçi. Bu kodu daha malesef deneyemedim. Denediğimde sonuçları ile paylaşacağım.
+
 try {
             final String name = "testAes";
             final String library = "C:\\ProCrypt-KM3000\\config\\procryptoki.dll";
