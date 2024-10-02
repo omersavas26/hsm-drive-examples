@@ -51,3 +51,5 @@ Console.WriteLine("Encrypt OK: " + encryptedData.Length);
 
 byte[] decryptedData = session.Decrypt(mechanism, key, encryptedData);
 Console.WriteLine("Decrypt OK: " + System.Text.Encoding.Default.GetString(decryptedData));
+
+Console.ReadKey();
